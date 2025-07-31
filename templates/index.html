@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Extractor PDF → Markdown</title>
+</head>
+<body style="background-color: #f0f0f0; color: #222; font-family: Arial; padding: 20px;">
+    <h1>Sube tu PDF</h1>
+    <form method="POST" action="/convert" enctype="multipart/form-data">
+        <input type="file" name="pdf" accept="application/pdf" required>
+        <button type="submit">Procesar</button>
+    </form>
+</body>
+

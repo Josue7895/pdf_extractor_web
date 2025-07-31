@@ -1,0 +1,8 @@
+flask
+pdfplumber
+pandas
+pymupdf
+camelot-py[cv]
+pytesseract
+pdf2image
+werkzeug
