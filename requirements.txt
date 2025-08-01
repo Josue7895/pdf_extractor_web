@@ -2,7 +2,10 @@ flask
 pdfplumber
 pandas
 pymupdf
-camelot-py[cv]
+camelot-py
 pytesseract
 pdf2image
 werkzeug
+waitress
+
+
